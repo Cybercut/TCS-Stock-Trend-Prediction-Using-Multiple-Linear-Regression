@@ -1,2 +1,2 @@
 # TCS-Stock-Trend-Prediction-Using-Multiple-Linear-Regression
-A mini-project that will predict the closing price of a TCS stock in a given day based on opening, high and low prices.
+A mini-project that will predict the closing price of a TCS stock in a given day based on opening, high and low prices. The dataset is reliable and obtained from Kaggle. It showcases the historical price trends of TCS stocks. After preprocessing the data, linear regression is used. The predicted values are compared with test values. It shows a high degree of accuracy.
